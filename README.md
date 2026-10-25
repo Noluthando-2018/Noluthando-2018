@@ -1,16 +1,136 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Noluthando;Software+Engineering+Student;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Solutions+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<!--
-**Noluthando-2018/Noluthando-2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Software Engineering | 🌐 Full Stack Development | 📱 Mobile App Development</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noluthando-2018&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About Me
+
+- 🎓 Software Engineering student at **Konya Technical University, Türkiye**
+- 💻 Interested in full-stack web development and building practical applications
+- 📱 Developing mobile applications with **React Native**
+- 🔌 Exploring external API integration and data-driven application features
+- 🧠 Contributing to **NeuroScan**, a collaborative AI-powered brain MRI analysis project
+- 🌱 Always learning, building, and improving my software engineering skills
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 [NeuroScan — AI-Powered Brain MRI Analysis](https://github.com/Noluthando-2018/NeuroScan)
+
+A collaborative project focused on AI-assisted brain MRI analysis and clinical decision support.
+
+**My contributions:**
+- Developing the doctor and patient web interface and application workflows
+- Working on backend and database components
+- Developing a resectability prediction model to classify surgical outcomes as Gross Total Resection (GTR) or Subtotal Resection (STR)
+- Working on integrating AI-generated results into the application workflow
+
+#### 🌐 [Personal Portfolio — Full Stack Web Application](https://github.com/Noluthando-2018/FUTURE_FS_01)
+
+A portfolio website developed as part of my full-stack web development experience.
+
+- React frontend
+- Node.js and Express backend
+- MySQL database integration
+- Contact form and email functionality
+
+#### 📋 [Mini CRM — Customer Relationship Management](https://github.com/Noluthando-2018/FUTURE_FS_02)
+
+A full-stack application for managing leads and tracking customer interactions.
+
+- Lead management and status updates
+- Notes and JWT-based authentication
+- Frontend-to-backend API integration
+- MySQL database
+
+#### 🛍️ [Kota King — Local Business Website](https://github.com/Noluthando-2018/FUTURE_FS_03)
+
+A website built to give a local business an online presence.
+
+- HTML, CSS, and JavaScript
+- Interactive website functionality
+- Published using GitHub Pages
+
+---
+
+### 📱 Projects in Progress
+
+#### 🌦️ LocalCast — Weather App
+
+A weather application built with **React Native**, integrating external APIs to retrieve weather information.
+
+**Technologies:** React Native · External APIs
+
+#### 🏡 Airbnb Clone — Accommodation App
+
+An accommodation application inspired by Airbnb, built with **React Native** and using external APIs.
+
+**Technologies:** React Native · External APIs
+
+#### 🛒 AuraBlue — Online Shopping App
+
+An online shopping application built with **React Native**, integrating external APIs.
+
+**Technologies:** React Native · External APIs
+
+*Repository links will be added when these projects are published on GitHub.*
+
+---
+
+### 💼 Internship Experience
+
+**Future Interns — Full Stack Web Development**
+- Developed practical web applications using frontend and backend technologies.
+- Worked with databases, authentication, and application functionality.
+
+**Future Interns — Data Visualization Trainee**
+- Collaborated with an international team on a data visualization project.
+- Gained experience in data analysis, visualization, and teamwork.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mysql,java,python,git,github,docker,vscode" alt="Languages and tools" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Noluthando-2018">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/noluthando-sekhula-7a2572383">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noluthando-2018&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noluthando-2018&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noluthando-2018&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</div>
+
+---
+
+<div align="center">
+  ✨ <i>"Building today, learning every day, creating solutions for tomorrow."</i> ✨
+</div>
