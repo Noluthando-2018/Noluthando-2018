@@ -23,15 +23,28 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 [NeuroScan — AI-Powered Brain MRI Analysis](https://github.com/Noluthando-2018/NeuroScan)
+#### 🧠 [NeuroScan-AI-Assisted Neurological Disease Analysis Platform](https://github.com/Noluthando-2018/NeuroScan)
 
-A collaborative project focused on AI-assisted brain MRI analysis and clinical decision support.
+🚧 **Status: In Progress**
 
-**My contributions:**
-- Developing the doctor and patient web interface and application workflows
-- Working on backend and database components
-- Developing a resectability prediction model to classify surgical outcomes as Gross Total Resection (GTR) or Subtotal Resection (STR)
-- Working on integrating AI-generated results into the application workflow
+A collaborative, ongoing project combining web development and artificial intelligence to support brain tumor analysis and clinical decision-making using MRI scans. The platform aims to connect doctors and patients with AI-assisted analysis, prediction results, and visual explanations.
+
+**My Contributions:**
+- **Web Application:** Developing doctor and patient interfaces, application workflows, and patient and case management features.
+- **Backend & Database:** Working on backend functionality and database integration.
+- **AI Model Development:** Developing a brain tumor resectability prediction model to classify surgical outcomes as Gross Total Resection (GTR) or Subtotal Resection (STR).
+- **AI Integration:** Working on connecting AI-generated predictions with the web application to present results to users.
+
+**Project Components:**
+- Brain tumor classification using MRI scans
+- Radiomics-based prediction and explainable AI (XAI)
+- Surgical resectability prediction
+- AI-powered chatbot and translation
+- Doctor and patient web interface
+
+**Technologies:** React · JavaScript · Backend Development · Database Management · Deep Learning · Computer Vision · Explainable AI
+
+*NeuroScan is an ongoing collaborative project. Different team members contribute to the web application and AI components. The linked repository contains the web application, while the AI models are developed separately as part of the wider project.*
 
 #### 🌐 [Personal Portfolio — Full Stack Web Application](https://github.com/Noluthando-2018/FUTURE_FS_01)
 
@@ -89,11 +102,15 @@ An online shopping application built with **React Native**, integrating external
 
 **Future Interns — Full Stack Web Development**
 - Developed practical web applications using frontend and backend technologies.
-- Worked with databases, authentication, and application functionality.
+- Worked with React, Node.js, Express, MySQL, and authentication.
+- Built projects focused on real-world web development skills.
 
-**Future Interns — Data Visualization Trainee**
-- Collaborated with an international team on a data visualization project.
-- Gained experience in data analysis, visualization, and teamwork.
+**Excelerate — Data Visualization Trainee**
+- Participated in an international remote internship focused on data visualization.
+- Collaborated with an international team to explore and visualize data.
+- Recognized as a **Star Performer** during the internship.
+
+
 
 ---
 
